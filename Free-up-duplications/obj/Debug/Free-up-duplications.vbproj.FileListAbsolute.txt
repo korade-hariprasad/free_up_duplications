@@ -1,0 +1,11 @@
+E:\MyPro\Free-up-duplications\Free-up-duplications\bin\Debug\Free-up-duplications.exe.config
+E:\MyPro\Free-up-duplications\Free-up-duplications\bin\Debug\Free-up-duplications.exe
+E:\MyPro\Free-up-duplications\Free-up-duplications\bin\Debug\Free-up-duplications.pdb
+E:\MyPro\Free-up-duplications\Free-up-duplications\bin\Debug\Free-up-duplications.xml
+E:\MyPro\Free-up-duplications\Free-up-duplications\obj\Debug\Free-up-duplications.vbprojResolveAssemblyReference.cache
+E:\MyPro\Free-up-duplications\Free-up-duplications\obj\Debug\Free_up_duplications.main.resources
+E:\MyPro\Free-up-duplications\Free-up-duplications\obj\Debug\Free_up_duplications.Resources.resources
+E:\MyPro\Free-up-duplications\Free-up-duplications\obj\Debug\Free-up-duplications.vbproj.GenerateResource.Cache
+E:\MyPro\Free-up-duplications\Free-up-duplications\obj\Debug\Free-up-duplications.exe
+E:\MyPro\Free-up-duplications\Free-up-duplications\obj\Debug\Free-up-duplications.xml
+E:\MyPro\Free-up-duplications\Free-up-duplications\obj\Debug\Free-up-duplications.pdb

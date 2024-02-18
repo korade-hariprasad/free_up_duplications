@@ -1,0 +1,37 @@
+How to use:
+
+Open the app. It has two text boxes & one button. 
+
+The first text box says "dive path here" 
+In this box type the path of folder which has all the 
+original & duplicate files.
+
+If you dont know the address then simply open a file in
+that location & goto its properties. There you can see the 
+path, copy it. 
+
+The second box says "extension here"
+Type the extension of file which you wish to delete in this box
+In our case we want to delete image files so the extension 
+can be .jpg .jpeg or .png
+If you dont know the extension then select the file & goto its 
+properties there you can see the extension under "Type of file"
+option (E.g. "BMP File (.bmp)" here .bmp is your extension) 
+
+NOTE 1: 
+  Be very cautious while typing extension. It should start 
+  with a dot & should not have any spelling mistake. Also it is 
+  case sensitive so .jpg is not same as .JPG
+  Its a good idea to copy location & extension from properties.
+
+After this just press the "Delete Copies" button.
+
+NOTE 2:
+  Wait till the software shows a message that says
+  "Deleted all Copies". 
+  Do not open or close the files of location or the app may
+  crash. Once you see the message "Deleted all Copies" then 
+  you are safe.
+
+Not to worry if anything goes wrong. You can restore it from the
+Recycle Bin. 
